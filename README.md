@@ -2,7 +2,7 @@
 
 A quick Email Footer developed for a friend's startup
 
-![FunZ](./FunZ/funz_logo.png)
+![FunZ](./funz_logo.png)
 
 ## FunZ Email Footer
 
